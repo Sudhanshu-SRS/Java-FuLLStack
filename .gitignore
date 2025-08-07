@@ -1,0 +1,29 @@
+# Eclipse
+*.launch
+.settings/
+.project
+.classpath
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IntelliJ (if used)
+.idea/
+*.iml
